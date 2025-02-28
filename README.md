@@ -14,12 +14,21 @@ Hence,this approach enables banks to enhance customer segmentation, improve serv
 
 # Final Analysis:
 🔹 Total Number of Customers and Accounts.
+
 🔹 Total Deposits vs. Total Withdrawals.
+
 🔹 Percentage of Accounts with Savings vs. Checking Type.
+
 🔹 Top 5 Customers with the Highest Account Balances.
+
 🔹 Average Transaction Amount for Deposits and Withdrawals.
+
 🔹 Top 3 Customers with the Most Transactions.
+
 🔹 Accounts with the Highest Number of Withdrawals.
+
 🔹 Customers with a Balance Below the Minimum Threshold.
+
 🔹 Customers Who Made Withdrawals of More Than $5,000 in a Single Transaction.
+
 🔹 Total Transactions Performed in the Last 30 Days.
