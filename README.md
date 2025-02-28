@@ -1,4 +1,4 @@
-# Banking-Customer-Transaction-Balance-Analysis
+# Banking-Customer-Transaction-Balance-Analysis using SQL
 
 # Problem Statement:
 Banks collect vast amounts of transactional and customer data, but deriving meaningful insights from these datasets is crucial for enhancing customer experience, identifying trends, and optimizing financial services. The challenge is to analyze customer transactions and balances to uncover patterns in deposits, withdrawals, and overall account engagement. Additionally, banks need efficient ways to segment customers based on their financial behavior to improve marketing strategies and tailor personalized service offerings.
